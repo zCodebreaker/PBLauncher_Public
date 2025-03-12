@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBLauncher", "PBLauncher\PBLauncher.csproj", "{5AF9119D-6370-4B88-B2D0-4CDD17D6960B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBLauncherUpdater", "PBLauncherUpdater\PBLauncherUpdater.csproj", "{E1E2FDC6-ABC4-432E-AEA8-4067D4A41B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF9119D-6370-4B88-B2D0-4CDD17D6960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF9119D-6370-4B88-B2D0-4CDD17D6960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF9119D-6370-4B88-B2D0-4CDD17D6960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF9119D-6370-4B88-B2D0-4CDD17D6960B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E2FDC6-ABC4-432E-AEA8-4067D4A41B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E2FDC6-ABC4-432E-AEA8-4067D4A41B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E2FDC6-ABC4-432E-AEA8-4067D4A41B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E2FDC6-ABC4-432E-AEA8-4067D4A41B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A22D7E-A782-4980-A234-1C75C71F1DBC}
+	EndGlobalSection
+EndGlobal
